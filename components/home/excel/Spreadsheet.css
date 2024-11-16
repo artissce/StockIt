@@ -1,0 +1,10 @@
+.spreadsheet-container {
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+}
+
+.e-spreadsheet {
+    width: 100% !important;
+    height: 600px !important;
+}

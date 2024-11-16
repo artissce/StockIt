@@ -1,0 +1,31 @@
+.form-container {
+    width: 80%; /* Ancho del contenedor del formulario */
+   
+    margin-top: 3rem; /* Espacio entre el alert y el formulario */
+  }
+  
+  .alert-container {
+    position: fixed;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    z-index: 1000; /* Asegura que el alert esté por encima de otros elementos */
+  }
+  section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     }
+  
+  .formulario {
+    margin-top: 3rem; /* Espacio entre el alert y el formulario */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+
+
+  
